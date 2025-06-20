@@ -1,4 +1,4 @@
 # FirstProject
 This is my first Git repository
 <br>
-Author - Maryam Akhtar
+Author - Maryam (daughter of M.Akhtar)
